@@ -5,7 +5,7 @@
          alt="Dapr logo" title="Dapr" height="100" width="100" />
 </a></br>
 
-A curated list of awesome Dapr application runtime related repositories, articles.
+A curated list of awesome tools related to Dapr (Distributed Application Runtime) including repositories, and articles.
 
 # Contents
 
